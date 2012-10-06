@@ -1,3 +1,6 @@
+# amazon instant video drm flash workaround
+hal
+libhal1
 # skype, Android SDK, etc
 ia32-libs
 # google-chrome
