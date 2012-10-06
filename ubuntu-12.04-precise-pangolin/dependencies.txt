@@ -13,5 +13,27 @@ lib32asound2
 lib32gcc1
 lib32stdc++6
 libc6-i386
+# rvm
+autoconf
+automake
+bison
+build-essential
+curl
+git-core
+libc6-dev
+libreadline6
+libreadline6-dev
+libsqlite3-dev
+libssl-dev
+libtool
+libxml2-dev
+libxslt-dev
+libyaml-dev
+ncurses-dev
+openssl
+sqlite3
+subversion
+zlib1g
+zlib1g-dev
 # misc
 ubuntu-restricted-extras
