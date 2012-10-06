@@ -1,0 +1,5 @@
+
+emacs23-nox
+fabric
+openjdk-7-jdk
+

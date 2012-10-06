@@ -1,0 +1,12 @@
+command-not-found
+command-not-found-data
+compizconfig-settings-manager
+compiz-fusion-plugins-extra
+gkrellm
+hal
+keychain
+p7zip-full
+pwgen
+synaptic
+synergy
+wakeonlan

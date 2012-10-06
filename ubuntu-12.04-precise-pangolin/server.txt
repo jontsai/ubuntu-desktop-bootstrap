@@ -1,0 +1,7 @@
+lamp-server^
+nagios-nrpe-plugin
+nagios-nrpe-server
+nagios3
+openssh-server
+phpmyadmin
+policycoreutils

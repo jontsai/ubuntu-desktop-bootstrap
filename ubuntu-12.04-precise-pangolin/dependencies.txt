@@ -1,0 +1,14 @@
+# skype, Android SDK, etc
+ia32-libs
+# google-chrome
+libnss3-1d
+libxss1
+# dropbox
+python-gpgme
+# skype
+lib32asound2
+lib32gcc1
+lib32stdc++6
+libc6-i386
+# misc
+ubuntu-restricted-extras
