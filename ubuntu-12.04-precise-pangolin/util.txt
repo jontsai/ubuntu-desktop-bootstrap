@@ -9,3 +9,4 @@ pwgen
 synaptic
 synergy
 wakeonlan
+wine
