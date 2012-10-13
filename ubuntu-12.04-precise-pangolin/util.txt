@@ -2,6 +2,7 @@ command-not-found
 command-not-found-data
 compizconfig-settings-manager
 compiz-fusion-plugins-extra
+dconf-tools
 gkrellm
 keychain
 p7zip-full
