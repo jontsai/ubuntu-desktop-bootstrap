@@ -4,6 +4,7 @@ compizconfig-settings-manager
 compiz-fusion-plugins-extra
 dconf-tools
 gkrellm
+gparted
 keychain
 p7zip-full
 pwgen
