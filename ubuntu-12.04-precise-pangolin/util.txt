@@ -3,6 +3,7 @@ command-not-found-data
 compizconfig-settings-manager
 compiz-fusion-plugins-extra
 dconf-tools
+dosfstools
 gkrellm
 gparted
 keychain
