@@ -10,6 +10,5 @@ keychain
 p7zip-full
 pwgen
 synaptic
-synergy
 wakeonlan
 wine
