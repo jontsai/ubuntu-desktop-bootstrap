@@ -29,6 +29,9 @@ media: media.txt
 net: net.txt
 	sudo apt-get -y install `m4 net.txt`
 
+python: python.txt
+	sudo apt-get -y install `m4 python.txt`
+
 server: server.txt
 	sudo apt-get -y install `m4 server.txt`
 
