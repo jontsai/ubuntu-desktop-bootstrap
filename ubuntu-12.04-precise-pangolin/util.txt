@@ -3,12 +3,13 @@ command-not-found-data
 compizconfig-settings-manager
 compiz-fusion-plugins-extra
 dconf-tools
+dosfstools
 gkrellm
+gnome-tweak-tool
 gparted
 keychain
 p7zip-full
 pwgen
 synaptic
-synergy
 wakeonlan
 wine
