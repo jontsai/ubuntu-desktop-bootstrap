@@ -1,1 +1,2 @@
-vlc-nox
+lxmusic
+#vlc-nox

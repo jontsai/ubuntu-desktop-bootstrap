@@ -6,16 +6,16 @@ update:
 	sudo apt-get update
 
 bootstrap: bootstrap.txt
-	sudo apt-get -y install `m4 bootstrap.txt`
+	sudo apt-get -y install `grep -v ^# bootstrap.txt | m4`
 
 dev: dev.txt
-	sudo apt-get -y install `m4 dev.txt`
+	sudo apt-get -y install `grep -v ^# dev.txt | m4`
 
 media: media.txt
-	sudo apt-get -y install `m4 media.txt`
+	sudo apt-get -y install `grep -v ^# media.txt | m4`
 
 util: util.txt
-	sudo apt-get -y install `m4 util.txt`
+	sudo apt-get -y install `grep -v ^# util.txt | m4`
 
 util-extras: util-extras.txt
-	sudo apt-get -y install `m4 util-extras.txt`
+	sudo apt-get -y install `grep -v ^# util-extras.txt | m4`
