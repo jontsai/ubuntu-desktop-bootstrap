@@ -1,2 +1,3 @@
 emacs24-nox
 fabric
+openssh-server

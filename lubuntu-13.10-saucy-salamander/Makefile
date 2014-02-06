@@ -14,6 +14,9 @@ dev: dev.txt
 media: media.txt
 	sudo apt-get -y install `grep -v ^# media.txt | m4`
 
+webcam: webcam.txt
+	sudo apt-get -y install `grep -v ^# webcam.txt | m4`
+
 util: util.txt
 	sudo apt-get -y install `grep -v ^# util.txt | m4`
 
