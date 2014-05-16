@@ -1,0 +1,4 @@
+gparted
+keychain
+p7zip-full
+pwgen
